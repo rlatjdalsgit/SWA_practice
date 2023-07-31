@@ -1,3 +1,5 @@
 text file
 hello
 going to commit
+
+(new feature)
